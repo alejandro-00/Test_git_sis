@@ -6,9 +6,9 @@ public class JavaApplication5 {
         int n=Integer.parseInt(JOptionPane.showInputDialog(null,"N° de registros a ingresar"));
         Alumno a[]=new Alumno[n];
         int q=n;
-        boolean flag=false;
         String s="";
         for (int i = 0; i < n; i++) {
+            boolean flag=false;
             int c=0;
             s=JOptionPane.showInputDialog("Quedan "+q+" registros por ingresar ", "Nombre");
             while (a[c]!=null&&!a[c].getNombre().equalsIgnoreCase(s)) {
@@ -21,6 +21,7 @@ public class JavaApplication5 {
             if (flag==false) {
                 a[c]=new Alumno(s);
             }
+            q--;
         }
         int c=0;
         while (a[c]!=null) {
