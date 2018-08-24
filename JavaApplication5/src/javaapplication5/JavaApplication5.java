@@ -7,6 +7,9 @@ public class JavaApplication5 {
         Alumno a[]=new Alumno[n];
         int q=n;
         String s="";
+        String ss="";
+        String Mayor_nombre="";
+        int Mayor_contador=0;
         for (int i = 0; i < n; i++) {
             boolean flag=false;
             int c=0;
@@ -24,10 +27,22 @@ public class JavaApplication5 {
             q--;
         }
         int c=0;
+        int b=0;
+        Mayor_nombre=a[c].getNombre();
+        Mayor_contador=a[c].getContador();
+        c++;
         while (a[c]!=null) {
-            System.out.println(a[c].toString());
+            if (a[c].getContador()>Mayor_contador) {
+                Mayor_nombre=a[c].getNombre();
+                Mayor_contador=a[c].getContador();
+            }
+            if (a[c].getContador()==Mayor_contador&&!a[c].getNombre().equalsIgnoreCase(Mayor_nombre)) {
+                ss+=a[c].getNombre()+"\n";
+            }
             c++;
         }
+        System.out.println("Nombre más repetido: "+Mayor_nombre+"\nContador: "+Mayor_contador+"\n"+"Nombres igualmente repetidos: \n"+ss);
+        
     }
     
 }
