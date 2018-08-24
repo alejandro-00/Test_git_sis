@@ -19,7 +19,7 @@ public class Alumno {
 
     @Override
     public String toString() {
-        return "Alumno{" + "Nombre=" + Nombre + ", contador=" + contador + '}';
+        return "Alumno{" + "Nombre=" + Nombre+'}';
     }
 
     public String getNombre() {
