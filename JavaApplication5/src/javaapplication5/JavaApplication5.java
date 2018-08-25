@@ -25,13 +25,14 @@ public class JavaApplication5 {
                 a[c]=new Alumno(s);
             }
             q--;
+            System.out.println(a[c]);
         }
         int c=0;
         int b=0;
         Mayor_nombre=a[c].getNombre();
         Mayor_contador=a[c].getContador();
-        c++;
-        while (a[c]!=null) {
+        //c++;
+        while (c!=a.length&&a[c]!=null) {
             if (a[c].getContador()>Mayor_contador) {
                 Mayor_nombre=a[c].getNombre();
                 Mayor_contador=a[c].getContador();
@@ -40,6 +41,9 @@ public class JavaApplication5 {
                 ss+=a[c].getNombre()+"\n";
             }
             c++;
+            //if (a.length==c+1) {
+              //  break;
+            //}
         }
         System.out.println("Nombre más repetido: "+Mayor_nombre+"\nContador: "+Mayor_contador+"\n"+"Nombres igualmente repetidos: \n"+ss);
         

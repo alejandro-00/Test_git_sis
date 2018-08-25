@@ -10,7 +10,7 @@ package javaapplication5;
  * @author Acer
  */
 public class Alumno {
-    private String Nombre="";
+    private String Nombre;
     private int contador;
     Alumno(String n){
         Nombre=n;
