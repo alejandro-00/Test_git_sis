@@ -13,8 +13,8 @@ public class Alumno {
     private String Nombre="";
     private int contador;
     Alumno(String n){
-        this.Nombre=n;
-        this.contador=1;
+        Nombre=n;
+        contador=1;
     }
 
     @Override
