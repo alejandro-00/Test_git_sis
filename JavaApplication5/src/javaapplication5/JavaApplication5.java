@@ -25,7 +25,6 @@ public class JavaApplication5 {
                 a[c]=new Alumno(s);
             }
             q--;
-            System.out.println(a[c]);
         }
         int c=0;
         int b=0;
