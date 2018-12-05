@@ -1,0 +1,812 @@
+﻿{
+"cuestionario":[
+{
+"PREGUNTA":"They _______ Mexican",
+"OPCION_1":"am",
+"OPCION_2":"are",
+"OPCION_3":"is",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"She ________ (not) an English teacher",
+"OPCION_1":"is",
+"OPCION_2":"are",
+"OPCION_3":"am",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"_______ you from México?",
+"OPCION_1":"am",
+"OPCION_2":"is",
+"OPCION_3":"are",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"________ she work with you?",
+"OPCION_1":"Do",
+"OPCION_2":"Does",
+"OPCION_3":"Is",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"Shhh! Be quiet! John _________(sleep)",
+"OPCION_1":"sleeps",
+"OPCION_2":"is sleep",
+"OPCION_3":"is sleeping",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"Justin (write, currently) ________________ a book about his adventures in Tibet.",
+"OPCION_1":"is currently writing",
+"OPCION_2":"currently write",
+"OPCION_3":"currently is writes",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"Rebbeca is _______________ have a baby next month",
+"OPCION_1":"go",
+"OPCION_2":"going to",
+"OPCION_3":"will goes",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"Look at those clouds. It ________",
+"OPCION_1":"will rains",
+"OPCION_2":"is going to rain",
+"OPCION_3":"rain",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"I am going to __________ Spanish next summer",
+"OPCION_1":"will learn",
+"OPCION_2":"learning",
+"OPCION_3":"learn",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"Yesterday I was sick. Today I feel __________",
+"OPCION_1":"better",
+"OPCION_2":"more good",
+"OPCION_3":"more better",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"Beth is ________ than Eduardo",
+"OPCION_1":"more short",
+"OPCION_2":"short",
+"OPCION_3":"shorter",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"This test is _________ than the test we took yesterday",
+"OPCION_1":"more difficult",
+"OPCION_2":"most difficult",
+"OPCION_3":"difficult",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"The brown bird is __________ than the yellow bird",
+"OPCION_1":"more small",
+"OPCION_2":"smaller",
+"OPCION_3":"smallest",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"I will wait ___________ 6:30, but then I'm going home",
+"OPCION_1":"at",
+"OPCION_2":"from",
+"OPCION_3":"until",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"I am not interested ________ Buying a new car now",
+"OPCION_1":"for",
+"OPCION_2":"to",
+"OPCION_3":"in",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"Since he met his new girlfriend, Juan never seems to be _________ home",
+"OPCION_1":"at",
+"OPCION_2":"in",
+"OPCION_3":"on",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"My best friend, John, is named ___________ his great-grandfather",
+"OPCION_1":"to",
+"OPCION_2":"about",
+"OPCION_3":"after",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"Do you have ________ you need for the trip",
+"OPCION_1":"everything",
+"OPCION_2":"anything",
+"OPCION_3":"nothing",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"_________ must go in our once a year sale!",
+"OPCION_1":"anything",
+"OPCION_2":"everything",
+"OPCION_3":"nothing",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"I don't have _________ to eat",
+"OPCION_1":"everything",
+"OPCION_2":"something",
+"OPCION_3":"anything",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"The doctor did ___________ they could, but it wasn't enough",
+"OPCION_1":"nothing",
+"OPCION_2":"everything",
+"OPCION_3":"something",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"__________ bicycle is broken, so he is going to take a bus to work today",
+"OPCION_1":"Robert",
+"OPCION_2":"Roberts'",
+"OPCION_3":"Robert's",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"My ___________ house is over there. They live just across th street",
+"OPCION_1":"cousin's",
+"OPCION_2":"cousins",
+"OPCION_3":"cousins'",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"How many __________ did the children eat at the park?",
+"OPCION_1":"chocolate",
+"OPCION_2":"chocolate's",
+"OPCION_3":"chocolates",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"A.- What is your _________ name?\nB.- Leonardo",
+"OPCION_1":"friends'",
+"OPCION_2":"friends",
+"OPCION_3":"friend's",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"The teacher, _________ I spoke this morning, said I was doing very well",
+"OPCION_1":"who",
+"OPCION_2":"whom",
+"OPCION_3":"To whom",
+"OPCION_4":"which",
+"CORRECTA":3
+},
+{
+"PREGUNTA":"Where's the dog __________ lives next door",
+"OPCION_1":"who",
+"OPCION_2":"which",
+"OPCION_3":"whose",
+"OPCION_4":"when",
+"CORRECTA":2
+},
+{
+"PREGUNTA":"Do you know _________ this mobile phone belongs to?",
+"OPCION_1":"which",
+"OPCION_2":"where",
+"OPCION_3":"whom",
+"OPCION_4":"who",
+"CORRECTA":4
+},
+{
+"PREGUNTA":"If you can't find the hotel ________ stayed las weekend, I can tell you _______ to ask",
+"OPCION_1":"which\/where",
+"OPCION_2":"where\/who",
+"OPCION_3":"where\/which",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"How many cups ________? There are two cups",
+"OPCION_1":"is there",
+"OPCION_2":"are there",
+"OPCION_3":"there are",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"A:_________ any books on the table?\nB: No, _________",
+"OPCION_1":"Are there\/there isn't",
+"OPCION_2":"Are there\/There aren't",
+"OPCION_3":"There are\/aren't",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"________ a big group of people looking at things in the museum",
+"OPCION_1":"There are",
+"OPCION_2":"There",
+"OPCION_3":"There is",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"________ many peolpe standing out of the movie theatre",
+"OPCION_1":"There",
+"OPCION_2":"There is",
+"OPCION_3":"There are",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"In my opinion that _________ comedy show on television",
+"OPCION_1":"the funnier",
+"OPCION_2":"the funny",
+"OPCION_3":"is the funniest",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"My house is located _________ our school",
+"OPCION_1":"further",
+"OPCION_2":"far",
+"OPCION_3":"the further from",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"David _______ in our English class",
+"OPCION_1":"the tallest person",
+"OPCION_2":"is the tallest person",
+"OPCION_3":"is the most tall person",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"His grandfather is _________ in his family",
+"OPCION_1":"oldest that",
+"OPCION_2":"the oldest",
+"OPCION_3":"the most old",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"There's ______ nice girl in the red car",
+"OPCION_1":"an",
+"OPCION_2":"some",
+"OPCION_3":"a",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"Would you like _______ milk with your cookies",
+"OPCION_1":"an",
+"OPCION_2":"a",
+"OPCION_3":"some",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"They have found ________ gold in that old mine",
+"OPCION_1":"an",
+"OPCION_2":"a",
+"OPCION_3":"some",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"______ money",
+"OPCION_1":"many",
+"OPCION_2":"much",
+"OPCION_3":null,
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"________ pupils",
+"OPCION_1":"much",
+"OPCION_2":"many",
+"OPCION_3":null,
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"________ fun",
+"OPCION_1":"many",
+"OPCION_2":"much",
+"OPCION_3":null,
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"We helped __________ to some soda at the party",
+"OPCION_1":"ourselves",
+"OPCION_2":"us",
+"OPCION_3":"to us",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"The lion can defend ______",
+"OPCION_1":"itself",
+"OPCION_2":"it self",
+"OPCION_3":"its his",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"Alice and Doris collected the stickers _______",
+"OPCION_1":"themself",
+"OPCION_2":"themselves",
+"OPCION_3":"them",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"He isn't tall ________ to be a basketball player",
+"OPCION_1":"too",
+"OPCION_2":"so",
+"OPCION_3":"enough",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"It's __________ for ud to go to the beach",
+"OPCION_1":"too",
+"OPCION_2":"so",
+"OPCION_3":"enough",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"He is __________ short to be a basketball player",
+"OPCION_1":"too",
+"OPCION_2":"enough",
+"OPCION_3":"so many",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"Giselle is ________ good that she can be a professional",
+"OPCION_1":"so",
+"OPCION_2":"too",
+"OPCION_3":"enough",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"_________ photos here are much than those photos on the book",
+"OPCION_1":"this",
+"OPCION_2":"that",
+"OPCION_3":"these",
+"OPCION_4":"those",
+"CORRECTA":3
+},
+{
+"PREGUNTA":"_________ building over there is the Chrysler Building",
+"OPCION_1":"this",
+"OPCION_2":"that",
+"OPCION_3":"these",
+"OPCION_4":"those",
+"CORRECTA":2
+},
+{
+"PREGUNTA":"Look at _________ newspaper here.",
+"OPCION_1":"this",
+"OPCION_2":"that",
+"OPCION_3":"these",
+"OPCION_4":"those",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"If she leaves him, it will __________ him right",
+"OPCION_1":"Look",
+"OPCION_2":"feel",
+"OPCION_3":"serve",
+"OPCION_4":"do",
+"CORRECTA":4
+},
+{
+"PREGUNTA":"Do you __________ a diary",
+"OPCION_1":"keep",
+"OPCION_2":"have",
+"OPCION_3":"save",
+"OPCION_4":"is",
+"CORRECTA":2
+},
+{
+"PREGUNTA":"Gina's applied ___________ a new job in San Fransisco",
+"OPCION_1":"for",
+"OPCION_2":"to",
+"OPCION_3":"after",
+"OPCION_4":"a",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"If i had gone white water rafting with my friends, I ________ down the Colorado River right now",
+"OPCION_1":"be",
+"OPCION_2":"would be",
+"OPCION_3":"must have been",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"The book is optional. My professor said we could read it if we needed extra credit. But we ________ read it if we don't want to",
+"OPCION_1":"cannot",
+"OPCION_2":"must not",
+"OPCION_3":"don't have to",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"We _________ need to wait for Kate, there is a lot of traffic on the way here",
+"OPCION_1":"ought",
+"OPCION_2":"might",
+"OPCION_3":"would",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"You __________ stop worrying so much. It doesn't do you any good. Either you get the job, or you don't. If you don't, just apply for another one. Eventually, you will find work",
+"OPCION_1":"must have",
+"OPCION_2":"need to",
+"OPCION_3":"are able to",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"It was cold, so I _________ the window",
+"OPCION_1":"shut",
+"OPCION_2":"am shut",
+"OPCION_3":"shutted",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"The police ___________ me on my way home last night",
+"OPCION_1":"was",
+"OPCION_2":"stopped",
+"OPCION_3":"stopping",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"We ___________ David in town a few days ago",
+"OPCION_1":"did see",
+"OPCION_2":"saw",
+"OPCION_3":"was",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"What ________ you _______ last weekend?",
+"OPCION_1":"were\/do",
+"OPCION_2":"did\/did",
+"OPCION_3":"did\/do",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"The bed was very uncomfortable. I _______ sleep very well",
+"OPCION_1":"did",
+"OPCION_2":"didn't",
+"OPCION_3":"wasn't",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"The film wasn't very good. I ________ it verymuch",
+"OPCION_1":"enjoyed",
+"OPCION_2":"wasn't enjoy",
+"OPCION_3":"didn't enjoy",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"Bill _________ a new hose",
+"OPCION_1":"have just bought",
+"OPCION_2":"have just buy",
+"OPCION_3":"has just bought",
+"OPCION_4":"has just buy",
+"CORRECTA":2
+},
+{
+"PREGUNTA":"That house __________ painted green for then years",
+"OPCION_1":"have bee",
+"OPCION_2":"have been",
+"OPCION_3":"has be",
+"OPCION_4":"has been",
+"CORRECTA":4
+},
+{
+"PREGUNTA":"The bus ___________ down",
+"OPCION_1":"have broke",
+"OPCION_2":"have broken",
+"OPCION_3":"has broke",
+"OPCION_4":"has broken",
+"CORRECTA":4
+},
+{
+"PREGUNTA":"I _________ skydiving",
+"OPCION_1":"has never try",
+"OPCION_2":"never tried",
+"OPCION_3":"have never try",
+"OPCION_4":"have never tried",
+"CORRECTA":4
+},
+{
+"PREGUNTA":"I _________ three kilometers to get to work",
+"OPCION_1":"have rode",
+"OPCION_2":"have ridden",
+"OPCION_3":"has rode",
+"OPCION_4":"has ridden",
+"CORRECTA":2
+},
+{
+"PREGUNTA":"Susan __________ two pieces of cake",
+"OPCION_1":"have ate",
+"OPCION_2":"have eaten",
+"OPCION_3":"has ate",
+"OPCION_4":"has eaten",
+"CORRECTA":4
+},
+{
+"PREGUNTA":"Any vehicles found parked in front of these gates will __________",
+"OPCION_1":"remove",
+"OPCION_2":"be removed",
+"OPCION_3":"are removed",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"Harry Potter and the Goble to Fire ___________ by J. K. Rowling",
+"OPCION_1":"was written",
+"OPCION_2":"wrote",
+"OPCION_3":"were written",
+"OPCION_4":null,
+"CORRECTA":3
+},
+{
+"PREGUNTA":"We will _________ any vehicles found parked in front of these gates",
+"OPCION_1":"removing",
+"OPCION_2":"remove",
+"OPCION_3":"removed",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"The meeting _________ until the end of the month",
+"OPCION_1":"has postponed",
+"OPCION_2":"has been postponed",
+"OPCION_3":"is been postponed",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"I'm going to the mountains next week. I wish I _________(have) more time, but I'll be staying for only a week",
+"OPCION_1":"having",
+"OPCION_2":"had had",
+"OPCION_3":"had",
+"OPCION_4":"will to have",
+"CORRECTA":3
+},
+{
+"PREGUNTA":"Jason enjoys reading books, but he doesn't have much opportunity to read. he wishes he __________(can) read more",
+"OPCION_1":"could",
+"OPCION_2":"had can",
+"OPCION_3":"canned",
+"OPCION_4":"had could",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"Jane wanted to visit her friends in Alaska, but she wasn't able to go. She wishes she _________(have) enough money to visit them",
+"OPCION_1":"had had",
+"OPCION_2":"had",
+"OPCION_3":"having",
+"OPCION_4":"will to have",
+"CORRECTA":2
+},
+{
+"PREGUNTA":"She lost the job because she didn't make enough sales. She wishes she __________(spend) more time trying to find clients",
+"OPCION_1":"spending",
+"OPCION_2":"will spend",
+"OPCION_3":"spend",
+"OPCION_4":"had spent",
+"CORRECTA":4
+},
+{
+"PREGUNTA":"I think I will apply _________ a new job this summer",
+"OPCION_1":"for",
+"OPCION_2":"to",
+"OPCION_3":"after",
+"OPCION_4":"a",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"The Pacific __________ is the largest body of water of the world",
+"OPCION_1":"Ocean",
+"OPCION_2":"Peak",
+"OPCION_3":"Stream",
+"OPCION_4":"Desert",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"I can't decide whether to take the job or not. I can't __________ up my mind",
+"OPCION_1":"speak",
+"OPCION_2":"make",
+"OPCION_3":"check",
+"OPCION_4":"take",
+"CORRECTA":2
+},
+{
+"PREGUNTA":"He loves _________ in the ocean",
+"OPCION_1":"surfing",
+"OPCION_2":"surfs",
+"OPCION_3":"surfed",
+"OPCION_4":"to surf",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"I miss _________ to the beach",
+"OPCION_1":"to go",
+"OPCION_2":"going",
+"OPCION_3":"to went",
+"OPCION_4":"goed",
+"CORRECTA":2
+},
+{
+"PREGUNTA":"Do you like _______?",
+"OPCION_1":"swim",
+"OPCION_2":"swam",
+"OPCION_3":"can swim",
+"OPCION_4":"swimming",
+"CORRECTA":4
+},
+{
+"PREGUNTA":"She admitted __________ the money",
+"OPCION_1":"stealing",
+"OPCION_2":"to stealing",
+"OPCION_3":"steals",
+"OPCION_4":"stole",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"He __________ while he was away on holiday",
+"OPCION_1":"had his flat burgled",
+"OPCION_2":"burgled his flat",
+"OPCION_3":"getting burgled",
+"OPCION_4":"had burgled his flat",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"She needs to _________",
+"OPCION_1":"have her car repairs",
+"OPCION_2":"have her car repaired",
+"OPCION_3":"repaired her car ",
+"OPCION_4":"her car is repair",
+"CORRECTA":2
+},
+{
+"PREGUNTA":"I really must get _________ the central heating.",
+"OPCION_1":"somebody to fix",
+"OPCION_2":"somebody fix",
+"OPCION_3":"somebody fixing",
+"OPCION_4":"somebody fixies",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"The teacher ___________ out when I arrived in the classroom",
+"OPCION_1":"goes",
+"OPCION_2":"had gone",
+"OPCION_3":"gone",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"I __________ such majestic mountains before I went to Banff",
+"OPCION_1":"never seen",
+"OPCION_2":"had never seen",
+"OPCION_3":"saw",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"She __________ the ocean before she moved to Vancouver",
+"OPCION_1":"had never seen",
+"OPCION_2":"never seen",
+"OPCION_3":"had never saw",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"When they arrived we __________ the test",
+"OPCION_1":"had already started",
+"OPCION_2":"have already started",
+"OPCION_3":"starts",
+"OPCION_4":null,
+"CORRECTA":1
+},
+{
+"PREGUNTA":"I __________ my document before the power went out in the computer lab",
+"OPCION_1":"saved",
+"OPCION_2":"had saved",
+"OPCION_3":"save",
+"OPCION_4":null,
+"CORRECTA":2
+},
+{
+"PREGUNTA":"I wish I __________ Henry of stealing my wallet. I found it under my bed yesterday",
+"OPCION_1":"hadn't accused",
+"OPCION_2":"didn't accuse",
+"OPCION_3":"wouldn't accuse",
+"OPCION_4":"won't accuse",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"Mr. Reed wishes his wife ___________ her yellow dress to the wedding ceremony next Tuesday. He really likes it",
+"OPCION_1":"would wear",
+"OPCION_2":"will wear",
+"OPCION_3":"wore",
+"OPCION_4":"had worn",
+"CORRECTA":1
+},
+{
+"PREGUNTA":"Phillip and John wish they ____________ their homework. The tracher got very angry",
+"OPCION_1":"did",
+"OPCION_2":"would go",
+"OPCION_3":"had done",
+"OPCION_4":"will do",
+"CORRECTA":3
+}
+"PREGUNTA":"Intelligence pills\nSome scientists have predicted that healthy adults and chuldren may one day take drugs to improve their intelligence 
+and intellectual performance. A research group has suggested that such drugs might become as common as coffe or tea within the next couple of decades.
+\nTo counter this, students taking exams might have to make drugs test like athletes. There are alrady drugs that are known to improve mental performance,
+ like Ritalin, which is given to children with problems concentrating. A drug given to people with trouble sleeping also helps people remember numbers.
+\nThese drugs raise serious legal and moral questions, but people already take vitamins to help them remember things better, so it will not be a simple problem to solve.
+ It will probably be difficult to decide at what point a food supplement becomes an unfair drug in an examination \n \n Only children will take pills to improve their intellectual performance",
+"OPCION_1":"Right",
+"OPCION_2":"Wrong",
+"OPCION_3":"Not mentioned",
+"OPCION_4":null,
+"CORRECTA":3
+},
+"PREGUNTA":"Intelligence pills\nSome scientists have predicted that healthy adults and chuldren may one day take drugs to improve their intelligence 
+and intellectual performance. A research group has suggested that such drugs might become as common as coffe or tea within the next couple of decades.
+\nTo counter this, students taking exams might have to make drugs test like athletes. There are alrady drugs that are known to improve mental performance,
+ like Ritalin, which is given to children with problems concentrating. A drug given to people with trouble sleeping also helps people remember numbers.
+\nThese drugs raise serious legal and moral questions, but people already take vitamins to help them remember things better, so it will not be a simple problem to solve.
+ It will probably be difficult to decide at what point a food supplement becomes an unfair drug in an examination \n \n A sleeping pill helps people remember numbers",
+"OPCION_1":"Right",
+"OPCION_2":"Wrong",
+"OPCION_3":"Not mentioned",
+"OPCION_4":null,
+"CORRECTA":1
+}
+]
+}
