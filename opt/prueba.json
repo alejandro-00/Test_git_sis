@@ -1,0 +1,9 @@
+{
+    "cuestionario":[
+        {
+            "pregunta":"abcd",
+            "respuesta":"a",
+            "correcta":1
+        }
+    ]
+}
