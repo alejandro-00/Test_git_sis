@@ -6,23 +6,26 @@
             "OPCION_2":"are",
             "OPCION_3":"is",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"http://www.eclecticenglish.com/grammar/PresentSimpleToBe1A.html"
         },
         {
-            "PREGUNTA":"She ________ (not) an English teacher",
-            "OPCION_1":"is",
-            "OPCION_2":"are",
-            "OPCION_3":"am",
+            "PREGUNTA":"She ________ an English teacher",
+            "OPCION_1":"is not",
+            "OPCION_2":"are not",
+            "OPCION_3":"am not",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"http://www.eclecticenglish.com/grammar/PresentSimpleToBe1A.html"
         },
         {
             "PREGUNTA":"_______ you from México?",
             "OPCION_1":"am",
             "OPCION_2":"is",
-            "OPCION_3":"are",
+            "OPCION_3":"Are",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/tenses/be3.htm"
         },
         {
             "PREGUNTA":"________ she work with you?",
@@ -30,7 +33,8 @@
             "OPCION_2":"Does",
             "OPCION_3":"Is",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/tenses/do_does.htm"
         },
         {
             "PREGUNTA":"Shhh! Be quiet! John _________(sleep)",
@@ -38,7 +42,8 @@
             "OPCION_2":"is sleep",
             "OPCION_3":"is sleeping",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.ego4u.com/en/cram-up/tests/present-progressive-1"
         },
         {
             "PREGUNTA":"Justin (write, currently) ________________ a book about his adventures in Tibet.",
@@ -46,7 +51,8 @@
             "OPCION_2":"currently write",
             "OPCION_3":"currently is writes",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://www.englisch-hilfen.de/en/grammar/pres_pro.htm"
         },
         {
             "PREGUNTA":"Rebbeca is _______________ have a baby next month",
@@ -54,7 +60,9 @@
             "OPCION_2":"going to",
             "OPCION_3":"will goes",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/future-1-going-to/exercise"
+            
         },
         {
             "PREGUNTA":"Look at those clouds. It ________",
@@ -62,7 +70,8 @@
             "OPCION_2":"is going to rain",
             "OPCION_3":"rain",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/future-1-going-to/exercises"
         },
         {
             "PREGUNTA":"I am going to __________ Spanish next summer",
@@ -70,7 +79,8 @@
             "OPCION_2":"learning",
             "OPCION_3":"learn",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/future-1-going-to/exercises"
         },
         {
             "PREGUNTA":"Yesterday I was sick. Today I feel __________",
@@ -78,7 +88,8 @@
             "OPCION_2":"more good",
             "OPCION_3":"more better",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/adjectives-adverbs/adjectives/exercises"
         },
         {
             "PREGUNTA":"Beth is ________ than Eduardo",
@@ -86,7 +97,8 @@
             "OPCION_2":"short",
             "OPCION_3":"shorter",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/adjectives-adverbs/adjectives/exercises"
         },
         {
             "PREGUNTA":"This test is _________ than the test we took yesterday",
@@ -94,7 +106,8 @@
             "OPCION_2":"most difficult",
             "OPCION_3":"difficult",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://www.perfect-english-grammar.com/comparative-adjectives-exercise-1.html"
         },
         {
             "PREGUNTA":"The brown bird is __________ than the yellow bird",
@@ -102,7 +115,8 @@
             "OPCION_2":"smaller",
             "OPCION_3":"smallest",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.perfect-english-grammar.com/comparative-adjectives-exercise-1.html"
         },
         {
             "PREGUNTA":"I will wait ___________ 6:30, but then I'm going home",
@@ -110,15 +124,17 @@
             "OPCION_2":"from",
             "OPCION_3":"until",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://dictionary.cambridge.org/es/gramatica/gramatica-britanica/linking-words-and-expressions/conjunctions-time"
         },
         {
-            "PREGUNTA":"I am not interested ________ Buying a new car now",
+            "PREGUNTA":"I am not interested ________ buying a new car now",
             "OPCION_1":"for",
             "OPCION_2":"to",
             "OPCION_3":"in",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://ell.stackexchange.com/questions/32998/interested-in-to-whats-the-difference"
         },
         {
             "PREGUNTA":"Since he met his new girlfriend, Juan never seems to be _________ home",
@@ -126,7 +142,8 @@
             "OPCION_2":"in",
             "OPCION_3":"on",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://ell.stackexchange.com/questions/39798/should-i-say-in-the-home-or-at-home"
         },
         {
             "PREGUNTA":"My best friend, John, is named ___________ his great-grandfather",
@@ -134,7 +151,8 @@
             "OPCION_2":"about",
             "OPCION_3":"after",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.quickanddirtytips.com/education/grammar/named-for-named-after-and-namesake"
         },
         {
             "PREGUNTA":"Do you have ________ you need for the trip",
@@ -142,7 +160,8 @@
             "OPCION_2":"anything",
             "OPCION_3":"nothing",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://www.ecenglish.com/learnenglish/lessons/anything-nothing-something-everything"
         },
         {
             "PREGUNTA":"_________ must go in our once a year sale!",
@@ -150,7 +169,8 @@
             "OPCION_2":"everything",
             "OPCION_3":"nothing",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ecenglish.com/learnenglish/lessons/anything-nothing-something-everything"
         },
         {
             "PREGUNTA":"I don't have _________ to eat",
@@ -158,7 +178,8 @@
             "OPCION_2":"something",
             "OPCION_3":"anything",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://learnenglish.britishcouncil.org/english-grammar/indefinite-pronouns"
         },
         {
             "PREGUNTA":"The doctor did ___________ they could, but it wasn't enough",
@@ -166,7 +187,8 @@
             "OPCION_2":"everything",
             "OPCION_3":"something",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://learnenglish.britishcouncil.org/english-grammar/indefinite-pronouns"
         },
         {
             "PREGUNTA":"__________ bicycle is broken, so he is going to take a bus to work today",
@@ -174,15 +196,17 @@
             "OPCION_2":"Roberts'",
             "OPCION_3":"Robert's",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/nouns_articles/apostrophe_s2.htm"
         },
         {
-            "PREGUNTA":"My ___________ house is over there. They live just across th street",
+            "PREGUNTA":"My ___________ house is over there. They live just across the street",
             "OPCION_1":"cousin's",
             "OPCION_2":"cousins",
             "OPCION_3":"cousins'",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/nouns_articles/apostrophe_s2.htm"
         },
         {
             "PREGUNTA":"How many __________ did the children eat at the park?",
@@ -190,7 +214,8 @@
             "OPCION_2":"chocolate's",
             "OPCION_3":"chocolates",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/nouns_articles/apostrophe_s.htm"
         },
         {
             "PREGUNTA":"A.- What is your _________ name?\nB.- Leonardo",
@@ -198,7 +223,8 @@
             "OPCION_2":"friends",
             "OPCION_3":"friend's",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/nouns_articles/apostrophe_s.htm"
         },
         {
             "PREGUNTA":"The teacher, _________ I spoke this morning, said I was doing very well",
@@ -206,7 +232,8 @@
             "OPCION_2":"whom",
             "OPCION_3":"To whom",
             "OPCION_4":"which",
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/relative-clauses/exercises?02"
         },
         {
             "PREGUNTA":"Where's the dog __________ lives next door",
@@ -214,7 +241,8 @@
             "OPCION_2":"which",
             "OPCION_3":"whose",
             "OPCION_4":"when",
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/relative-clauses/exercises?02"
         },
         {
             "PREGUNTA":"Do you know _________ this mobile phone belongs to?",
@@ -222,7 +250,8 @@
             "OPCION_2":"where",
             "OPCION_3":"whom",
             "OPCION_4":"who",
-            "CORRECTA":4
+            "CORRECTA":4,
+            "URL":"https://www.ego4u.com/en/cram-up/tests/relative-clauses-3"
         },
         {
             "PREGUNTA":"If you can't find the hotel ________ stayed las weekend, I can tell you _______ to ask",
@@ -230,7 +259,8 @@
             "OPCION_2":"where\/who",
             "OPCION_3":"where\/which",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.examenglish.com/grammar/d_relative_clauses.htm"
         },
         {
             "PREGUNTA":"How many cups ________? There are two cups",
@@ -238,7 +268,8 @@
             "OPCION_2":"are there",
             "OPCION_3":"there are",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/various/there_is_there_are2.htm"
         },
         {
             "PREGUNTA":"A:_________ any books on the table?\nB: No, _________",
@@ -246,7 +277,8 @@
             "OPCION_2":"Are there\/There aren't",
             "OPCION_3":"There are\/aren't",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/various/there_is_there_are2.htm"
         },
         {
             "PREGUNTA":"________ a big group of people looking at things in the museum",
@@ -254,7 +286,8 @@
             "OPCION_2":"There",
             "OPCION_3":"There is",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/various/there_is_there_are4.htm"
         },
         {
             "PREGUNTA":"________ many peolpe standing out of the movie theatre",
@@ -262,7 +295,8 @@
             "OPCION_2":"There is",
             "OPCION_3":"There are",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/various/there_is_there_are4.htm"
         },
         {
             "PREGUNTA":"In my opinion that _________ comedy show on television",
@@ -270,15 +304,17 @@
             "OPCION_2":"the funny",
             "OPCION_3":"is the funniest",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://elt.oup.com/student/solutions/elementary/grammar/grammar_08_022e?cc=mx&selLanguage=en"
         },
         {
             "PREGUNTA":"My house is located _________ our school",
-            "OPCION_1":"further",
+            "OPCION_1":"further than",
             "OPCION_2":"far",
             "OPCION_3":"the further from",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":1,
+            "URL":"https://elt.oup.com/student/solutions/elementary/grammar/grammar_08_022e?cc=mx&selLanguage=en"
         },
         {
             "PREGUNTA":"David _______ in our English class",
@@ -286,7 +322,8 @@
             "OPCION_2":"is the tallest person",
             "OPCION_3":"is the most tall person",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"http://www.focus.olsztyn.pl/en-superlative-adjectives-exercise.html#.XIEUIyhKhkg"
         },
         {
             "PREGUNTA":"His grandfather is _________ in his family",
@@ -294,7 +331,8 @@
             "OPCION_2":"the oldest",
             "OPCION_3":"the most old",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"http://www.focus.olsztyn.pl/en-superlative-adjectives-exercise.html#.XIEUIyhKhkg"
         },
         {
             "PREGUNTA":"There's ______ nice girl in the red car",
@@ -302,15 +340,17 @@
             "OPCION_2":"some",
             "OPCION_3":"a",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"http://www.folkuniversitetet.ee/harjutused/Beginners/SomeAny.htm"
         },
         {
-            "PREGUNTA":"Would you like _______ milk with your cookies",
+            "PREGUNTA":"Would you like _______ milk with your cookies?",
             "OPCION_1":"an",
             "OPCION_2":"a",
             "OPCION_3":"some",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"http://www.folkuniversitetet.ee/harjutused/Beginners/SomeAny.htm"
         },
         {
             "PREGUNTA":"They have found ________ gold in that old mine",
@@ -318,7 +358,8 @@
             "OPCION_2":"a",
             "OPCION_3":"some",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.english-grammar.at/online_exercises/quantifiers/quantifiers1.htm"
         },
         {
             "PREGUNTA":"______ money",
@@ -326,7 +367,8 @@
             "OPCION_2":"much",
             "OPCION_3":null,
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ego4u.com/en/cram-up/vocabulary/much-many"
         },
         {
             "PREGUNTA":"________ pupils",
@@ -334,7 +376,8 @@
             "OPCION_2":"many",
             "OPCION_3":null,
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://dictionary.cambridge.org/es/gramatica/gramatica-britanica/pronouns/pronouns-reflexive-myself-themselves-etc"
         },
         {
             "PREGUNTA":"________ fun",
@@ -342,7 +385,8 @@
             "OPCION_2":"much",
             "OPCION_3":null,
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.scribd.com/document/136322893/reflexive-pronouns-doc"
         },
         {
             "PREGUNTA":"We helped __________ to some soda at the party",
@@ -350,7 +394,8 @@
             "OPCION_2":"us",
             "OPCION_3":"to us",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://www.scribd.com/document/136322893/reflexive-pronouns-doc"
         },
         {
             "PREGUNTA":"The lion can defend ______",
@@ -358,7 +403,8 @@
             "OPCION_2":"it self",
             "OPCION_3":"its his",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/pronouns/reflexive_pronouns.htm"
         },
         {
             "PREGUNTA":"Alice and Doris collected the stickers _______",
@@ -366,7 +412,8 @@
             "OPCION_2":"themselves",
             "OPCION_3":"them",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/pronouns/reflexive_pronouns.htm"
         },
         {
             "PREGUNTA":"He isn't tall ________ to be a basketball player",
@@ -374,7 +421,8 @@
             "OPCION_2":"so",
             "OPCION_3":"enough",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.myenglishpages.com/site_php_files/grammar-exercise-too-enough.php"
         },
         {
             "PREGUNTA":"It's __________ for us to go to the beach",
@@ -382,7 +430,8 @@
             "OPCION_2":"so",
             "OPCION_3":"enough",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://agendaweb.org/grammar/too-enough-exercises.html"
         },
         {
             "PREGUNTA":"He is __________ short to be a basketball player",
@@ -390,7 +439,8 @@
             "OPCION_2":"enough",
             "OPCION_3":"so many",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://agendaweb.org/grammar/too-enough-exercises.html"
         },
         {
             "PREGUNTA":"Giselle is ________ good that she can be a professional",
@@ -398,7 +448,8 @@
             "OPCION_2":"too",
             "OPCION_3":"enough",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://www.tolearnenglish.com/exercises/exercise-english-2/exercise-english-10731.php"
         },
         {
             "PREGUNTA":"_________ photos here are much than those photos on the book",
@@ -521,7 +572,7 @@
             "CORRECTA":2
         },
         {
-            "PREGUNTA":"The film wasn't very good. I ________ it verymuch",
+            "PREGUNTA":"The film wasn't very good. I ________ it very much",
             "OPCION_1":"enjoyed",
             "OPCION_2":"wasn't enjoy",
             "OPCION_3":"didn't enjoy",
@@ -793,7 +844,7 @@
             "CORRECTA":3
         },
         {
-            "PREGUNTA":"Intelligence pills\nSome scientists have predicted that healthy adults and chuldren may one day take drugs to improve their intelligence and intellectual performance. A research group has suggested that such drugs might become as common as coffe or tea within the next couple of decades.\nTo counter this, students taking exams might have to make drugs test like athletes. There are alrady drugs that are known to improve mental performance, like Ritalin, which is given to children with problems concentrating. A drug given to people with trouble sleeping also helps people remember numbers.\nThese drugs raise serious legal and moral questions, but people already take vitamins to help them remember things better, so it will not be a simple problem to solve. It will probably be difficult to decide at what point a food supplement becomes an unfair drug in an examination \n \n Q.- A sleeping pill helps people remember numbers",
+            "PREGUNTA":"Intelligence pills\nSome scientists have predicted that healthy adults and children may one day take drugs to improve their intelligence and intellectual performance. A research group has suggested that such drugs might become as common as coffe or tea within the next couple of decades.\nTo counter this, students taking exams might have to make drugs test like athletes. There are already drugs that are known to improve mental performance, like Ritalin, which is given to children with problems concentrating. A drug given to people with trouble sleeping also helps people remember numbers.\nThese drugs raise serious legal and moral questions, but people already take vitamins to help them remember things better, so it will not be a simple problem to solve. It will probably be difficult to decide at what point a food supplement becomes an unfair drug in an examination \n \n Q.- A sleeping pill helps people remember numbers",
             "OPCION_1":"Right",
             "OPCION_2":"Wrong",
             "OPCION_3":"Not mentioned",
