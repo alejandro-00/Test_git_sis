@@ -457,7 +457,8 @@
             "OPCION_2":"that",
             "OPCION_3":"these",
             "OPCION_4":"those",
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/various/this_that.htm"
         },
         {
             "PREGUNTA":"_________ building over there is the Chrysler Building",
@@ -465,7 +466,8 @@
             "OPCION_2":"that",
             "OPCION_3":"these",
             "OPCION_4":"those",
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://agendaweb.org/exercises/grammar/demonstratives/this-that-these-those"
         },
         {
             "PREGUNTA":"Look at _________ newspaper here.",
@@ -473,7 +475,8 @@
             "OPCION_2":"that",
             "OPCION_3":"these",
             "OPCION_4":"those",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://agendaweb.org/exercises/grammar/demonstratives/this-that"
         },
         {
             "PREGUNTA":"If she leaves him, it will __________ him right",
@@ -481,7 +484,8 @@
             "OPCION_2":"feel",
             "OPCION_3":"serve",
             "OPCION_4":"do",
-            "CORRECTA":4
+            "CORRECTA":4,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/tenses/will_future_mix.htm"
         },
         {
             "PREGUNTA":"Do you __________ a diary",
@@ -489,7 +493,8 @@
             "OPCION_2":"have",
             "OPCION_3":"save",
             "OPCION_4":"is",
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.merriam-webster.com/dictionary/keep%20a%20diary"
         },
         {
             "PREGUNTA":"Gina's applied ___________ a new job in San Fransisco",
@@ -497,7 +502,8 @@
             "OPCION_2":"to",
             "OPCION_3":"after",
             "OPCION_4":"a",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://www.dailywritingtips.com/apply-to-apply-for-and-apply-with/"
         },
         {
             "PREGUNTA":"If i had gone white water rafting with my friends, I ________ down the Colorado River right now",
@@ -505,7 +511,8 @@
             "OPCION_2":"would be",
             "OPCION_3":"must have been",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.perfect-english-grammar.com/third-conditional-exercise-1.html"
         },
         {
             "PREGUNTA":"The book is optional. My professor said we could read it if we needed extra credit. But we ________ read it if we don't want to",
@@ -513,7 +520,8 @@
             "OPCION_2":"must not",
             "OPCION_3":"don't have to",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.englishclub.com/grammar/verbs-modals-have-to-must-not-quiz.htm"
         },
         {
             "PREGUNTA":"We _________ need to wait for Kate, there is a lot of traffic on the way here",
@@ -521,7 +529,8 @@
             "OPCION_2":"might",
             "OPCION_3":"would",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.learn-english-today.com/lessons/lesson_contents/verbs/modals.html"
         },
         {
             "PREGUNTA":"You __________ stop worrying so much. It doesn't do you any good. Either you get the job, or you don't. If you don't, just apply for another one. Eventually, you will find work",
@@ -529,7 +538,8 @@
             "OPCION_2":"need to",
             "OPCION_3":"are able to",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.perfect-english-grammar.com/modal-verbs-of-obligation-exercise-1.html"
         },
         {
             "PREGUNTA":"It was cold, so I _________ the window",
@@ -537,7 +547,8 @@
             "OPCION_2":"am shut",
             "OPCION_3":"shutted",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"http://www.esl-lounge.com/student/grammar/1g85-elementary-past-simple-multiple-choice-exercise.php"
         },
         {
             "PREGUNTA":"The police ___________ me on my way home last night",
@@ -545,7 +556,8 @@
             "OPCION_2":"stopped",
             "OPCION_3":"stopping",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/tenses/simple_past_progressive2.htm"
         },
         {
             "PREGUNTA":"We ___________ David in town a few days ago",
@@ -553,7 +565,8 @@
             "OPCION_2":"saw",
             "OPCION_3":"was",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php"
         },
         {
             "PREGUNTA":"What ________ you _______ last weekend?",
@@ -561,7 +574,8 @@
             "OPCION_2":"did\/did",
             "OPCION_3":"did\/do",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.englishpage.com/verbpage/pastcontinuous.html"
         },
         {
             "PREGUNTA":"The bed was very uncomfortable. I _______ sleep very well",
@@ -569,7 +583,8 @@
             "OPCION_2":"didn't",
             "OPCION_3":"wasn't",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/tenses/simple_past_mix.htm"
         },
         {
             "PREGUNTA":"The film wasn't very good. I ________ it very much",
@@ -577,7 +592,8 @@
             "OPCION_2":"wasn't enjoy",
             "OPCION_3":"didn't enjoy",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://first-english.org/english_learning/english_tenses/simple_past/a_simple_past_exercises.htm"
         },
         {
             "PREGUNTA":"Bill _________ a new hose",
@@ -585,7 +601,8 @@
             "OPCION_2":"have just buy",
             "OPCION_3":"has just bought",
             "OPCION_4":"has just buy",
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://learnenglish.britishcouncil.org/intermediate-grammar/just-yet-still-already"
         },
         {
             "PREGUNTA":"That house __________ painted green for then years",
@@ -593,7 +610,8 @@
             "OPCION_2":"have been",
             "OPCION_3":"has be",
             "OPCION_4":"has been",
-            "CORRECTA":4
+            "CORRECTA":4,
+            "URL":"https://www.ecenglish.com/learnenglish/lessons/present-perfect-quiz"
         },
         {
             "PREGUNTA":"The bus ___________ down",
@@ -601,7 +619,8 @@
             "OPCION_2":"have broken",
             "OPCION_3":"has broke",
             "OPCION_4":"has broken",
-            "CORRECTA":4
+            "CORRECTA":4,
+            "URL":"https://www.englisch-hilfen.de/en/exercises/tenses/present_perfect_statements.htm"
         },
         {
             "PREGUNTA":"I _________ skydiving",
@@ -609,7 +628,8 @@
             "OPCION_2":"never tried",
             "OPCION_3":"have never try",
             "OPCION_4":"have never tried",
-            "CORRECTA":4
+            "CORRECTA":4,
+            "URL":"https://www.tolearnenglish.com/exercises/exercise-english-2/exercise-english-4147.php"
         },
         {
             "PREGUNTA":"I _________ three kilometers to get to work",
@@ -617,7 +637,8 @@
             "OPCION_2":"have ridden",
             "OPCION_3":"has rode",
             "OPCION_4":"has ridden",
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.perfect-english-grammar.com/present-perfect-exercise-4.html"
         },
         {
             "PREGUNTA":"Susan __________ two pieces of cake",
@@ -625,7 +646,8 @@
             "OPCION_2":"have eaten",
             "OPCION_3":"has ate",
             "OPCION_4":"has eaten",
-            "CORRECTA":4
+            "CORRECTA":4,
+            "URL":"https://www.perfect-english-grammar.com/present-perfect-exercise-5.html"
         },
         {
             "PREGUNTA":"Any vehicles found parked in front of these gates will __________",
@@ -633,7 +655,8 @@
             "OPCION_2":"be removed",
             "OPCION_3":"are removed",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/passive/exercises?future-1"
         },
         {
             "PREGUNTA":"Harry Potter and the Goble to Fire ___________ by J. K. Rowling",
@@ -641,7 +664,8 @@
             "OPCION_2":"wrote",
             "OPCION_3":"were written",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/passive/exercises?05"
         },
         {
             "PREGUNTA":"We will _________ any vehicles found parked in front of these gates",
@@ -649,7 +673,8 @@
             "OPCION_2":"remove",
             "OPCION_3":"removed",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/passive/exercises?simple-past"
         },
         {
             "PREGUNTA":"The meeting _________ until the end of the month",
@@ -657,7 +682,8 @@
             "OPCION_2":"has been postponed",
             "OPCION_3":"is been postponed",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/passive/exercises?present-progressive"
         },
         {
             "PREGUNTA":"I'm going to the mountains next week. I wish I _________(have) more time, but I'll be staying for only a week",
@@ -665,7 +691,8 @@
             "OPCION_2":"had had",
             "OPCION_3":"had",
             "OPCION_4":"will to have",
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"https://www.perfect-english-grammar.com/wish-exercise-1.html"
         },
         {
             "PREGUNTA":"Jason enjoys reading books, but he doesn't have much opportunity to read. he wishes he __________(can) read more",
@@ -673,7 +700,8 @@
             "OPCION_2":"had can",
             "OPCION_3":"canned",
             "OPCION_4":"had could",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://elt.oup.com/student/solutions/preint/grammar/grammar_08_022e?cc=mx&selLanguage=en"
         },
         {
             "PREGUNTA":"Jane wanted to visit her friends in Alaska, but she wasn't able to go. She wishes she _________(have) enough money to visit them",
@@ -681,7 +709,8 @@
             "OPCION_2":"had",
             "OPCION_3":"having",
             "OPCION_4":"will to have",
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://elt.oup.com/student/englishfile/intplus/a_grammar/file04/nef_int_grammar_4_02?cc=mx&selLanguage=en"
         },
         {
             "PREGUNTA":"She lost the job because she didn't make enough sales. She wishes she __________(spend) more time trying to find clients",
@@ -689,7 +718,8 @@
             "OPCION_2":"will spend",
             "OPCION_3":"spend",
             "OPCION_4":"had spent",
-            "CORRECTA":4
+            "CORRECTA":4,
+            "URL":"https://www.tolearnenglish.com/exercises/exercise-english-2/exercise-english-3268.php"
         },
         {
             "PREGUNTA":"I think I will apply _________ a new job this summer",
@@ -697,7 +727,8 @@
             "OPCION_2":"to",
             "OPCION_3":"after",
             "OPCION_4":"a",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://english.stackexchange.com/questions/72490/apply-for-vs-apply-to"
         },
         {
             "PREGUNTA":"The Pacific __________ is the largest body of water of the world",
@@ -705,7 +736,8 @@
             "OPCION_2":"Peak",
             "OPCION_3":"Stream",
             "OPCION_4":"Desert",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://elt.oup.com/student/solutions/elementary/grammar/grammar_08_022e?cc=mx&selLanguage=en"
         },
         {
             "PREGUNTA":"I can't decide whether to take the job or not. I can't __________ up my mind",
@@ -713,7 +745,8 @@
             "OPCION_2":"make",
             "OPCION_3":"check",
             "OPCION_4":"take",
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":null
         },
         {
             "PREGUNTA":"He loves _________ in the ocean",
@@ -721,7 +754,8 @@
             "OPCION_2":"surfs",
             "OPCION_3":"surfed",
             "OPCION_4":"to surf",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://dictionary.cambridge.org/es/gramatica/gramatica-britanica/common-verbs/hate-like-love-and-prefer"
         },
         {
             "PREGUNTA":"I miss _________ to the beach",
@@ -729,7 +763,8 @@
             "OPCION_2":"going",
             "OPCION_3":"to went",
             "OPCION_4":"goed",
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ef.com.mx/recursos-aprender-ingles/gramatica-inglesa/verbos-seguidos-gerund/"
         },
         {
             "PREGUNTA":"Do you like _______?",
@@ -737,7 +772,8 @@
             "OPCION_2":"swam",
             "OPCION_3":"can swim",
             "OPCION_4":"swimming",
-            "CORRECTA":4
+            "CORRECTA":4,
+            "URL":"https://www.englishpage.com/gerunds/gerunds_infinitives_1.htm"
         },
         {
             "PREGUNTA":"She admitted __________ the money",
@@ -745,7 +781,8 @@
             "OPCION_2":"to stealing",
             "OPCION_3":"steals",
             "OPCION_4":"stole",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://www.englishpage.com/gerunds/gerunds_infinitives_6.htm"
         },
         {
             "PREGUNTA":"He __________ while he was away on holiday",
@@ -753,7 +790,8 @@
             "OPCION_2":"burgled his flat",
             "OPCION_3":"getting burgled",
             "OPCION_4":"had burgled his flat",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://elt.oup.com/student/solutions/int/grammar/grammar_09_012e?cc=mx&selLanguage=en"
         },
         {
             "PREGUNTA":"She needs to _________",
@@ -761,7 +799,8 @@
             "OPCION_2":"have her car repaired",
             "OPCION_3":"repaired her car ",
             "OPCION_4":"her car is repair",
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/participles/exercises?08"
         },
         {
             "PREGUNTA":"I really must get _________ the central heating.",
@@ -769,7 +808,8 @@
             "OPCION_2":"somebody fix",
             "OPCION_3":"somebody fixing",
             "OPCION_4":"somebody fixies",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"http://www.focus.olsztyn.pl/en-have-get-something-done-exercises.html#.XJloDSgzbIV"
         },
         {
             "PREGUNTA":"The teacher ___________ out when I arrived in the classroom",
@@ -777,7 +817,8 @@
             "OPCION_2":"had gone",
             "OPCION_3":"gone",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/past-progressive"
         },
         {
             "PREGUNTA":"I __________ such majestic mountains before I went to Banff",
@@ -785,7 +826,8 @@
             "OPCION_2":"had never seen",
             "OPCION_3":"saw",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.ego4u.com/en/cram-up/grammar/past-perfect-simple/exercises"
         },
         {
             "PREGUNTA":"She __________ the ocean before she moved to Vancouver",
@@ -793,7 +835,8 @@
             "OPCION_2":"never seen",
             "OPCION_3":"had never saw",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"http://www.adelescorner.org/grammar/past_perfect/past_perfect.html"
         },
         {
             "PREGUNTA":"When they arrived we __________ the test",
@@ -801,7 +844,8 @@
             "OPCION_2":"have already started",
             "OPCION_3":"starts",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"http://www.learnenglish-online.com/grammar/pastperfect.html"
         },
         {
             "PREGUNTA":"I __________ my document before the power went out in the computer lab",
@@ -809,7 +853,8 @@
             "OPCION_2":"had saved",
             "OPCION_3":"save",
             "OPCION_4":null,
-            "CORRECTA":2
+            "CORRECTA":2,
+            "URL":"https://www.perfect-english-grammar.com/past-perfect-exercise-1.html"
         },
         {
             "PREGUNTA":"I wish I __________ Henry of stealing my wallet. I found it under my bed yesterday",
@@ -817,7 +862,8 @@
             "OPCION_2":"didn't accuse",
             "OPCION_3":"wouldn't accuse",
             "OPCION_4":"won't accuse",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"http://www.learnenglishlanguagewell.com/2015/wish-past-perfect-regrets/"
         },
         {
             "PREGUNTA":"Mr. Reed wishes his wife ___________ her yellow dress to the wedding ceremony next Tuesday. He really likes it",
@@ -825,7 +871,8 @@
             "OPCION_2":"will wear",
             "OPCION_3":"wore",
             "OPCION_4":"had worn",
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":"https://speakspeak.com/english-grammar-exercises/upper-intermediate/wish-3"
         },
         {
             "PREGUNTA":"Phillip and John wish they ____________ their homework. The tracher got very angry",
@@ -833,7 +880,8 @@
             "OPCION_2":"would go",
             "OPCION_3":"had done",
             "OPCION_4":"will do",
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":"http://usefulenglish.ru/grammar/subjunctive-mood-exercise-three"
         },
         {
             "PREGUNTA":"Intelligence pills\nSome scientists have predicted that healthy adults and chuldren may one day take drugs to improve their intelligence and intellectual performance. A research group has suggested that such drugs might become as common as coffe or tea within the next couple of decades.\nTo counter this, students taking exams might have to make drugs test like athletes. There are alrady drugs that are known to improve mental performance, like Ritalin, which is given to children with problems concentrating. A drug given to people with trouble sleeping also helps people remember numbers.\nThese drugs raise serious legal and moral questions, but people already take vitamins to help them remember things better, so it will not be a simple problem to solve. It will probably be difficult to decide at what point a food supplement becomes an unfair drug in an examination \n \n Q.- Only children will take pills to improve their intellectual performance",
@@ -841,7 +889,8 @@
             "OPCION_2":"Wrong",
             "OPCION_3":"Not mentioned",
             "OPCION_4":null,
-            "CORRECTA":3
+            "CORRECTA":3,
+            "URL":null
         },
         {
             "PREGUNTA":"Intelligence pills\nSome scientists have predicted that healthy adults and children may one day take drugs to improve their intelligence and intellectual performance. A research group has suggested that such drugs might become as common as coffe or tea within the next couple of decades.\nTo counter this, students taking exams might have to make drugs test like athletes. There are already drugs that are known to improve mental performance, like Ritalin, which is given to children with problems concentrating. A drug given to people with trouble sleeping also helps people remember numbers.\nThese drugs raise serious legal and moral questions, but people already take vitamins to help them remember things better, so it will not be a simple problem to solve. It will probably be difficult to decide at what point a food supplement becomes an unfair drug in an examination \n \n Q.- A sleeping pill helps people remember numbers",
@@ -849,7 +898,8 @@
             "OPCION_2":"Wrong",
             "OPCION_3":"Not mentioned",
             "OPCION_4":null,
-            "CORRECTA":1
+            "CORRECTA":1,
+            "URL":null
         }
     ]
 }
