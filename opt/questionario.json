@@ -21,7 +21,7 @@
         {
             "PREGUNTA":"_______ you from México?",
             "OPCION_1":"Am",
-            "OPCION_2":"iIs",
+            "OPCION_2":"Is",
             "OPCION_3":"Are",
             "OPCION_4":null,
             "CORRECTA":3,
